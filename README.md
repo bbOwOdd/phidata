@@ -1,8 +1,8 @@
-# Phidata
+## Phidata
 Phidata is a framework for building multi-modal agents.
 
-# Install phidata
+## Install phidata
 pip install -U phidata
 
-# Original Source
+## Original Source
 check more from https://github.com/agno-agi/phidata
