@@ -1,0 +1,3 @@
+pip install -U phidata
+huggingface token
+mistral api key
